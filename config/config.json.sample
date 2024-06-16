@@ -1,0 +1,37 @@
+{
+    "BOT_TOKEN": "",
+    "CHANNEL_QL": [
+    ],
+    "CHANNEL_QC": [
+    ],
+    "CHANNEL_LFG": [
+    ],
+    "CHANNEL_GENERAL": [
+    ],
+    "ADMINS": [
+    ],
+    "GUILD_ID": ,
+	"RANK_VALUES": {
+        "Elite": 2100,
+        "Diamond 5": 2025,
+        "Diamond 4": 1950,
+        "Diamond 3": 1875,
+        "Diamond 2": 1800,
+        "Diamond 1": 1725,
+        "Gold 5": 1650,
+        "Gold 4": 1575,
+        "Gold 3": 1500,
+        "Gold 2": 1425,
+        "Gold 1": 1350,
+        "Silver 5": 1275,
+        "Silver 4": 1200,
+        "Silver 3": 1125,
+        "Silver 2": 1050,
+        "Silver 1": 975,
+        "Bronze 5": 900,
+        "Bronze 4": 825,
+        "Bronze 3": 750,
+        "Bronze 2": 675,
+        "Bronze 1": 0
+    }
+}
